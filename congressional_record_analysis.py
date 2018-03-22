@@ -66,7 +66,7 @@ for word, num in c.most_common(10):
 print count
 
 # term frequency--note that project only inovled 4 of the 6 categories
-cats = {"immigration": ["immigration", "reform", "citizen", "refugee", "undocumented", "migrant", "deportation", "boarder", "sanctuary", "asylum", "amnesty", "dreamers", "legalization", "dream", "naturalization", "residence"],
+cats = {"immigration": ["immigration", "reform", "citizen", "refugee", "undocumented", "migrant", "deportation", "border", "sanctuary", "asylum", "amnesty", "dreamers", "legalization", "dream", "naturalization", "residence"],
 		 "economy": ["economy", "jobs", "unemployment", "growth", "recovery", "recession", "business", "wages", "income", "investment", "affordable", "work", "development", "entrepreneurship", "stimulus", "innovation", "downturn", "inflation"],
 		 "guns": ["guns", "shooting", "second", "amendment" "firearms", "control", "NRA", "rifle", "ban", "prayers", "Newtown", "violence", "aurora", "massacre"],
 		 "terrorism": ["terrorism", "national security", "Islam", "bullet", "Iran", "Iraq", "Afghanistan", "Middle", "laden", "Qaeda", "homeland", "defense", "bombing", "plot", "insurgent", "combatants"],
